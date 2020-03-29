@@ -16,3 +16,5 @@ de_cbble.dat
 de_dust2.dat
 de_inferno.dat
 gamemodes.txt
+version.txt
+files.txt
