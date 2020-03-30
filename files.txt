@@ -23,6 +23,8 @@ de_safehouse.dat
 de_shortdust.dat
 de_shortnuke.dat
 de_stmarc.dat
+de_studio.dat
+de_breach.dat
 de_subzero.dat
 de_sugarcane.dat
 de_train.dat
