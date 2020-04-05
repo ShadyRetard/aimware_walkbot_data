@@ -8,11 +8,14 @@ cs_assault.dat
 cs_italy.dat
 cs_militia.dat
 cs_office.dat
+de_anubis.dat
 de_bank.dat
 de_biome.dat
+de_breach.dat
 de_cache.dat
 de_canals.dat
 de_cbble.dat
+de_chlorine.dat
 de_dust2.dat
 de_inferno.dat
 de_lake.dat
@@ -24,7 +27,6 @@ de_shortdust.dat
 de_shortnuke.dat
 de_stmarc.dat
 de_studio.dat
-de_breach.dat
 de_subzero.dat
 de_sugarcane.dat
 de_train.dat
