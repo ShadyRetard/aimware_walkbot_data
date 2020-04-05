@@ -22,8 +22,8 @@
 					"mg_de_train",
 					"mg_de_dust2",
 					"mg_de_cache",
-					"mg_de_studio",
-					"mg_de_breach",
+					"mg_de_anubis",
+					"mg_de_chlorine",
 					"mg_de_mirage_scrimmagemap",
 					"mg_cs_agency",
 					"mg_cs_office"
